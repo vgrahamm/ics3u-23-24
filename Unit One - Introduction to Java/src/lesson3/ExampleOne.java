@@ -18,6 +18,10 @@ public class ExampleOne {
         double a,b = 6.7;
         a = 0;
 
+        System.out.print("the temperature is ");;
+        System.out.println(temperature);
+        System.out.print("the average is ");
+        System.out.println(average);
         System.out.println(a);
     }
 }
