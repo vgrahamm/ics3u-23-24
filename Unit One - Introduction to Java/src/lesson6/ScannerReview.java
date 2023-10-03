@@ -19,15 +19,31 @@ public class ScannerReview {
 
      */
     
-     System.out.println("Please enter an integer: ");
+     System.out.print("Please enter an integer: ");
      int x = input.nextInt();
 
      System.out.println(x);
 
-     System.out.println("Please enter a decimal number: ");
+     System.out.print("Please enter a decimal number: ");
      double y = input.nextDouble();
 
      System.out.println(y);
+
+     //
+
+    System.out.print("Please enter a double number ");
+    double e = input.nextDouble();
+
+    System.out.println(e);
+
+
+    System.out.print("Please enter an int: ");
+    double z = input.nextDouble();
+
+    System.out.println(z);
+
+    System.out.print("The average of both numbers is: ");
+    System.out.println((z+e)/2);
     }
   
 }
