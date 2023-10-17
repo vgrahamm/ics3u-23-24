@@ -1,4 +1,4 @@
-package lesson1;
+package lesson2;
 
 public class EqualsMethod {
     public static void main(String[] args) {

@@ -1,5 +1,7 @@
 package lesson1;
 
+import lesson2.Dog;
+
 public class DogTest {
     public static void main(String[] args) {
         Dog d1 = new Dog("Coco", 7, "Poodle");
