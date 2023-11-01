@@ -4,7 +4,7 @@ public class ElseIfExamplesMark {
 
     public static void main(String[] args) {
         
-    int mark = 35;
+    int mark = 65;
 
     if (mark >= 80)
         System.out.println("A");
