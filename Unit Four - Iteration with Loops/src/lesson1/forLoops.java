@@ -10,12 +10,12 @@ public class forLoops {
         // int result = exampleThree("Today is the best day Ever!");
         // System.out.println(result);
 
-        // int result = exampleFour("codeycodehhicodew", "code");
-        // System.out.println(result);
+        int result = exampleFour("codeycodehhicodew", "code");
+        System.out.println(result);
 
         // int result = exampleFive();
 
-        exampleSix();
+        // exampleSix();
     }
 
 
