@@ -13,9 +13,24 @@ public class WhileLoopExamples {
         // int result = exampleFive(1,100);
         // System.out.println(result);
 
-        int result = exampleSix(1,100);
+        int result = exampleSix(1,1000);
+        System.out.println(result);
+
+        
     }
 
+    private static int exampleSix(int min, int max) {
+        int sum = 0;
+
+        int i = min;
+
+        while(i<=max){
+            sum += i;
+            i++;
+        }
+
+        return sum;
+    }
 
     private static int exampleFive(int min, int max) {
         int sum = 0;
