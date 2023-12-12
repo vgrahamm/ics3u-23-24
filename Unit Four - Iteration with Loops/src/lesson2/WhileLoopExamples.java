@@ -8,13 +8,13 @@ public class WhileLoopExamples {
         // exampleOne();
         // exampleTwo();
         // int result = exampleThree();
-        // int result = exampleFour(10, 20);
+        int result = exampleFour(10, 20);
 
         // int result = exampleFive(1,100);
         // System.out.println(result);
 
-        int result = exampleSix(1,1000);
-        System.out.println(result);
+        // int result = exampleSix(1,1000);
+        // System.out.println(result);
 
         
     }

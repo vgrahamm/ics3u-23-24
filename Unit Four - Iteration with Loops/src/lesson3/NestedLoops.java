@@ -40,7 +40,7 @@ public class NestedLoops {
         for(int row = 0; row < rows; row++){
             // print the row
             for (int col = 0; col < cols; col++){
-                System.out.println(symbol);
+                System.out.print(symbol);
             }
             System.out.println();
         }
