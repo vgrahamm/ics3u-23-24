@@ -28,5 +28,8 @@ public class Game {
         System.out.println("D1 % " + die1Wins / 100.0);
         System.out.println("D2 % " + die2Wins / 100.0);
     }
-    
+
+    private static Die newDie() {
+        return null;
+    }    
 }
