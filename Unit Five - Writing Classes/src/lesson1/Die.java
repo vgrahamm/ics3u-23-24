@@ -23,8 +23,8 @@ public class Die {
 //         return 0;
     }
 
-    public void roll() {
-    }
+    // public void roll() {
+    // }
 
     public int getTopSide() {
         return 0;
